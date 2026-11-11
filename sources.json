@@ -1,0 +1,41 @@
+{
+  "scenario": "Nordmarkt Retail GmbH is fictional.",
+  "retail_case": {
+    "source": "Rossum Kingfisher case study",
+    "url": "https://rossum.ai/customer-stories/kingfisher/",
+    "facts": [
+      "~5 minutes manual invoice indexing into SAP",
+      "~25 seconds after automation",
+      "60% touchless data extraction",
+      "21 seconds average annotation time",
+      "14 FTE redeployed"
+    ],
+    "limitation": "Large retailer; indexing not end-to-end AP cycle time."
+  },
+  "labour_cost": {
+    "source": "Destatis / Eurostat-based 2025 comparison",
+    "url": "https://www.destatis.de/Europa/EN/Topic/Population-Labour-Social-Issues/Labour-market/EU_LabourCostPerHourWorked.html",
+    "value": "Germany services NACE G-N: EUR 43.80/hour",
+    "limitation": "Broad services-sector proxy, not retail AP employee-specific."
+  },
+  "midmarket_crosscheck": {
+    "source": "IDC InfoBrief 2022 page 11",
+    "url": "https://sipp-content-uk.dystrick.com/wp-content/uploads/2023/10/idc-digitizing-accounts-payable-receivable-to-boost-efficiency-enable-growth-report.pdf",
+    "facts": [
+      "9-24 minutes per incoming invoice",
+      "0.7 FTE supporting AP in average medium-sized firm",
+      "n=207 medium-sized firms"
+    ],
+    "limitation": "Underlying survey sample is UK and US, not EU-wide."
+  },
+  "germany_einvoice": {
+    "source": "German Federal Ministry of Finance",
+    "url": "https://www.bundesfinanzministerium.de/Content/DE/FAQ/e-rechnung.html",
+    "fact": "German domestic businesses must be able to receive structured e-invoices from 1 Jan 2025; transitional issuance rules apply."
+  },
+  "vida": {
+    "source": "European Commission",
+    "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-digital-age-vida_en",
+    "fact": "ViDA adopted March 2025; cross-border B2B digital reporting from 1 July 2030."
+  }
+}

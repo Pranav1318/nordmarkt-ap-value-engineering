@@ -1,0 +1,301 @@
+invoice_id,supplier,processing_minutes,hourly_cost_eur,is_manual,is_exception,invoice_amount_eur,invoice_type,channel,country
+NM-00001,Dairy Union eG,4.88,43.8,true,false,1180.23,PO-backed,PDF/email,AT
+NM-00002,OfficeSupply DE,5.77,43.8,false,false,464.45,PO-backed,Structured e-invoice,DE
+NM-00003,FreshFoods GmbH,3.95,43.8,true,false,9141.87,PO-backed,PDF/email,DE
+NM-00004,StoreTech SAS,5.58,43.8,true,true,1361.19,PO-backed,PDF/email,AT
+NM-00005,Dairy Union eG,3.41,43.8,false,false,1629.19,Non-PO,Structured e-invoice,AT
+NM-00006,StoreTech SAS,3.79,43.8,false,false,6991.62,PO-backed,Structured e-invoice,NL
+NM-00007,EuroPack SE,5.46,43.8,false,false,4654.5,PO-backed,Structured e-invoice,AT
+NM-00008,CleanHome BV,1.84,43.8,true,false,8091.58,PO-backed,PDF/email,NL
+NM-00009,NordLogistik KG,4.48,43.8,true,false,5627.78,PO-backed,Paper scan,AT
+NM-00010,StoreTech SAS,4.57,43.8,true,false,10137.8,PO-backed,Paper scan,DE
+NM-00011,OfficeSupply DE,4.65,43.8,false,false,10534.96,PO-backed,Structured e-invoice,AT
+NM-00012,Retail Fixtures AG,5.8,43.8,false,false,1843.03,PO-backed,Structured e-invoice,DE
+NM-00013,ProduceDirect GmbH,4.88,43.8,false,false,4439.66,PO-backed,Structured e-invoice,DE
+NM-00014,EuroPack SE,6.45,43.8,true,true,1961.17,PO-backed,EDI,DE
+NM-00015,Dairy Union eG,5.99,43.8,true,false,3129.26,PO-backed,PDF/email,NL
+NM-00016,Dairy Union eG,5.42,43.8,true,false,9047.9,PO-backed,PDF/email,NL
+NM-00017,Beverage Partners GmbH,5.05,43.8,false,false,11666.87,PO-backed,EDI,DE
+NM-00018,Dairy Union eG,5.07,43.8,false,false,7366.3,PO-backed,EDI,DE
+NM-00019,OfficeSupply DE,7.38,43.8,false,false,3991.25,PO-backed,EDI,DE
+NM-00020,Beverage Partners GmbH,4.28,43.8,false,false,2987.51,PO-backed,Structured e-invoice,DE
+NM-00021,Dairy Union eG,6.09,43.8,true,true,9225.14,Non-PO,PDF/email,DE
+NM-00022,Dairy Union eG,5.65,43.8,true,true,10488.33,Non-PO,PDF/email,AT
+NM-00023,ProduceDirect GmbH,5.06,43.8,true,false,11942.52,Non-PO,Paper scan,NL
+NM-00024,CleanHome BV,3.32,43.8,false,false,2812.66,Non-PO,EDI,AT
+NM-00025,FreshFoods GmbH,4.89,43.8,false,false,2862.96,PO-backed,Structured e-invoice,DE
+NM-00026,Retail Fixtures AG,4.93,43.8,true,false,2688.71,PO-backed,PDF/email,DE
+NM-00027,ProduceDirect GmbH,4.27,43.8,true,false,2406.36,Non-PO,PDF/email,DE
+NM-00028,FreshFoods GmbH,4.62,43.8,true,false,8129.37,PO-backed,PDF/email,NL
+NM-00029,CleanHome BV,3.84,43.8,false,false,6504.99,PO-backed,Structured e-invoice,DE
+NM-00030,EuroPack SE,6.85,43.8,false,false,5401.1,PO-backed,EDI,NL
+NM-00031,CleanHome BV,4.82,43.8,true,true,2120.79,PO-backed,Structured e-invoice,AT
+NM-00032,NordLogistik KG,4.95,43.8,false,false,4640.83,Non-PO,EDI,AT
+NM-00033,Dairy Union eG,3.89,43.8,false,false,7993.18,Non-PO,EDI,AT
+NM-00034,OfficeSupply DE,5.32,43.8,false,false,8868.49,PO-backed,Structured e-invoice,DE
+NM-00035,NordLogistik KG,3.88,43.8,true,false,824.02,PO-backed,PDF/email,NL
+NM-00036,CleanHome BV,4.34,43.8,false,false,4934.74,PO-backed,Structured e-invoice,NL
+NM-00037,Dairy Union eG,4.16,43.8,false,false,3898.98,PO-backed,Structured e-invoice,AT
+NM-00038,ProduceDirect GmbH,4.22,43.8,false,false,1700.91,PO-backed,Structured e-invoice,NL
+NM-00039,OfficeSupply DE,5.01,43.8,false,false,11953.74,PO-backed,EDI,DE
+NM-00040,StoreTech SAS,4.57,43.8,true,true,10588.24,PO-backed,EDI,DE
+NM-00041,Dairy Union eG,5.86,43.8,false,false,242.7,PO-backed,EDI,NL
+NM-00042,NordLogistik KG,3.52,43.8,false,false,3283.92,PO-backed,EDI,DE
+NM-00043,Beverage Partners GmbH,4.85,43.8,true,false,6139.1,PO-backed,PDF/email,AT
+NM-00044,ProduceDirect GmbH,5.74,43.8,true,true,9977.77,Non-PO,Paper scan,DE
+NM-00045,Dairy Union eG,4.44,43.8,false,false,8512.16,Non-PO,Structured e-invoice,NL
+NM-00046,NordLogistik KG,4.35,43.8,false,false,6615.24,PO-backed,Structured e-invoice,AT
+NM-00047,FreshFoods GmbH,5.66,43.8,true,false,10802.26,PO-backed,PDF/email,DE
+NM-00048,Dairy Union eG,5.68,43.8,true,false,10627.0,PO-backed,PDF/email,AT
+NM-00049,NordLogistik KG,5.72,43.8,true,false,10594.78,PO-backed,Paper scan,DE
+NM-00050,ProduceDirect GmbH,4.64,43.8,false,false,9656.49,Non-PO,Structured e-invoice,NL
+NM-00051,Retail Fixtures AG,5.12,43.8,true,false,2785.84,PO-backed,PDF/email,AT
+NM-00052,CleanHome BV,4.49,43.8,false,false,430.42,Non-PO,EDI,DE
+NM-00053,Dairy Union eG,6.72,43.8,false,false,4886.19,PO-backed,EDI,NL
+NM-00054,Beverage Partners GmbH,5.8,43.8,false,false,2266.03,PO-backed,EDI,AT
+NM-00055,Dairy Union eG,3.91,43.8,false,false,1520.4,PO-backed,Structured e-invoice,NL
+NM-00056,Dairy Union eG,6.59,43.8,false,false,11118.07,PO-backed,Structured e-invoice,NL
+NM-00057,StoreTech SAS,4.94,43.8,true,false,7534.39,Non-PO,PDF/email,NL
+NM-00058,Beverage Partners GmbH,4.27,43.8,true,false,8052.68,PO-backed,PDF/email,AT
+NM-00059,NordLogistik KG,5.8,43.8,false,false,7443.85,PO-backed,EDI,AT
+NM-00060,CleanHome BV,5.82,43.8,false,false,5244.17,Non-PO,EDI,NL
+NM-00061,NordLogistik KG,3.46,43.8,true,false,7957.38,PO-backed,PDF/email,AT
+NM-00062,CleanHome BV,5.59,43.8,false,false,8122.63,PO-backed,EDI,DE
+NM-00063,EuroPack SE,8.03,43.8,true,false,5546.68,PO-backed,PDF/email,NL
+NM-00064,ProduceDirect GmbH,5.91,43.8,true,false,3041.22,PO-backed,PDF/email,NL
+NM-00065,CleanHome BV,6.46,43.8,true,false,2234.26,Non-PO,PDF/email,NL
+NM-00066,EuroPack SE,3.24,43.8,false,false,5559.07,PO-backed,EDI,AT
+NM-00067,OfficeSupply DE,2.78,43.8,true,false,9807.83,Non-PO,PDF/email,NL
+NM-00068,NordLogistik KG,3.48,43.8,false,false,8962.32,Non-PO,EDI,AT
+NM-00069,Retail Fixtures AG,5.47,43.8,false,false,7576.97,Non-PO,EDI,AT
+NM-00070,StoreTech SAS,4.25,43.8,false,false,3938.56,PO-backed,EDI,NL
+NM-00071,ProduceDirect GmbH,4.53,43.8,false,false,4980.05,PO-backed,Structured e-invoice,NL
+NM-00072,ProduceDirect GmbH,5.42,43.8,false,false,10872.34,PO-backed,EDI,NL
+NM-00073,StoreTech SAS,6.05,43.8,true,false,3688.56,PO-backed,Paper scan,AT
+NM-00074,Dairy Union eG,4.02,43.8,true,false,9628.44,Non-PO,PDF/email,DE
+NM-00075,ProduceDirect GmbH,3.91,43.8,false,false,8731.55,PO-backed,EDI,AT
+NM-00076,ProduceDirect GmbH,5.1,43.8,true,false,7163.93,Non-PO,Paper scan,NL
+NM-00077,ProduceDirect GmbH,5.81,43.8,true,true,4029.13,PO-backed,Structured e-invoice,AT
+NM-00078,ProduceDirect GmbH,5.92,43.8,false,false,3139.42,Non-PO,EDI,DE
+NM-00079,EuroPack SE,7.57,43.8,false,false,9407.61,PO-backed,EDI,NL
+NM-00080,FreshFoods GmbH,5.87,43.8,false,false,7512.83,PO-backed,Structured e-invoice,DE
+NM-00081,StoreTech SAS,4.29,43.8,false,false,2138.3,PO-backed,Structured e-invoice,NL
+NM-00082,NordLogistik KG,4.7,43.8,true,false,11581.94,PO-backed,Paper scan,DE
+NM-00083,CleanHome BV,2.86,43.8,true,false,1050.56,Non-PO,PDF/email,NL
+NM-00084,Beverage Partners GmbH,3.9,43.8,true,false,10225.97,PO-backed,PDF/email,NL
+NM-00085,StoreTech SAS,4.71,43.8,true,false,967.14,Non-PO,PDF/email,NL
+NM-00086,EuroPack SE,4.87,43.8,false,false,5287.25,Non-PO,EDI,AT
+NM-00087,Beverage Partners GmbH,4.69,43.8,true,false,7448.56,Non-PO,PDF/email,NL
+NM-00088,OfficeSupply DE,3.87,43.8,true,false,3330.49,PO-backed,PDF/email,DE
+NM-00089,OfficeSupply DE,5.61,43.8,true,false,8068.03,PO-backed,PDF/email,AT
+NM-00090,CleanHome BV,4.44,43.8,true,true,4354.68,Non-PO,Structured e-invoice,AT
+NM-00091,CleanHome BV,4.73,43.8,true,true,1164.51,Non-PO,EDI,NL
+NM-00092,Retail Fixtures AG,4.16,43.8,false,false,7803.95,PO-backed,EDI,AT
+NM-00093,OfficeSupply DE,4.69,43.8,false,false,4522.89,PO-backed,EDI,NL
+NM-00094,StoreTech SAS,6.08,43.8,false,false,4318.95,PO-backed,EDI,AT
+NM-00095,Dairy Union eG,5.52,43.8,true,true,11417.9,PO-backed,EDI,NL
+NM-00096,OfficeSupply DE,5.49,43.8,false,false,11722.79,PO-backed,Structured e-invoice,NL
+NM-00097,Beverage Partners GmbH,5.46,43.8,true,false,317.66,Non-PO,PDF/email,NL
+NM-00098,Beverage Partners GmbH,4.2,43.8,true,true,8414.4,PO-backed,Structured e-invoice,DE
+NM-00099,Retail Fixtures AG,5.14,43.8,true,false,5369.56,Non-PO,PDF/email,DE
+NM-00100,EuroPack SE,5.1,43.8,true,false,9892.07,PO-backed,Paper scan,AT
+NM-00101,Beverage Partners GmbH,4.75,43.8,false,false,1159.39,PO-backed,EDI,DE
+NM-00102,OfficeSupply DE,4.42,43.8,false,false,2824.39,Non-PO,Structured e-invoice,NL
+NM-00103,OfficeSupply DE,4.57,43.8,false,false,7509.17,Non-PO,EDI,NL
+NM-00104,CleanHome BV,6.4,43.8,true,false,3286.06,PO-backed,Paper scan,DE
+NM-00105,OfficeSupply DE,5.07,43.8,false,false,5718.46,PO-backed,Structured e-invoice,DE
+NM-00106,Retail Fixtures AG,5.04,43.8,false,false,993.48,PO-backed,Structured e-invoice,DE
+NM-00107,ProduceDirect GmbH,3.86,43.8,true,false,1510.1,Non-PO,Paper scan,DE
+NM-00108,EuroPack SE,3.86,43.8,true,false,856.71,Non-PO,PDF/email,AT
+NM-00109,Beverage Partners GmbH,6.04,43.8,true,false,8441.84,Non-PO,PDF/email,AT
+NM-00110,FreshFoods GmbH,4.44,43.8,true,true,10689.66,PO-backed,EDI,NL
+NM-00111,OfficeSupply DE,7.36,43.8,false,false,7107.41,PO-backed,EDI,DE
+NM-00112,FreshFoods GmbH,6.53,43.8,true,false,9192.84,PO-backed,Paper scan,DE
+NM-00113,Retail Fixtures AG,5.6,43.8,false,false,11633.3,PO-backed,EDI,AT
+NM-00114,NordLogistik KG,4.65,43.8,false,false,4058.17,PO-backed,EDI,NL
+NM-00115,EuroPack SE,3.49,43.8,true,true,3877.03,PO-backed,EDI,AT
+NM-00116,FreshFoods GmbH,6.09,43.8,false,false,7943.28,Non-PO,Structured e-invoice,NL
+NM-00117,Retail Fixtures AG,3.47,43.8,false,false,9155.89,PO-backed,EDI,DE
+NM-00118,Retail Fixtures AG,4.82,43.8,false,false,1588.9,PO-backed,EDI,NL
+NM-00119,EuroPack SE,5.76,43.8,true,false,2812.7,PO-backed,PDF/email,DE
+NM-00120,Retail Fixtures AG,6.17,43.8,false,false,11201.94,PO-backed,EDI,AT
+NM-00121,Dairy Union eG,6.56,43.8,false,false,1864.01,PO-backed,EDI,DE
+NM-00122,EuroPack SE,2.34,43.8,true,false,3423.53,PO-backed,Paper scan,AT
+NM-00123,OfficeSupply DE,4.99,43.8,false,false,7022.09,Non-PO,EDI,NL
+NM-00124,StoreTech SAS,5.08,43.8,false,false,4089.41,PO-backed,EDI,NL
+NM-00125,ProduceDirect GmbH,7.11,43.8,true,true,2917.71,Non-PO,EDI,AT
+NM-00126,ProduceDirect GmbH,2.74,43.8,false,false,4725.03,PO-backed,Structured e-invoice,NL
+NM-00127,OfficeSupply DE,6.64,43.8,true,true,4084.14,PO-backed,PDF/email,DE
+NM-00128,Retail Fixtures AG,7.32,43.8,true,false,331.87,PO-backed,PDF/email,DE
+NM-00129,StoreTech SAS,5.7,43.8,false,false,7535.62,PO-backed,EDI,AT
+NM-00130,Dairy Union eG,6.02,43.8,true,false,4653.11,Non-PO,PDF/email,AT
+NM-00131,CleanHome BV,3.63,43.8,true,false,7629.26,Non-PO,PDF/email,AT
+NM-00132,EuroPack SE,5.1,43.8,true,false,9160.38,PO-backed,Paper scan,NL
+NM-00133,FreshFoods GmbH,4.18,43.8,true,true,3626.41,PO-backed,PDF/email,AT
+NM-00134,NordLogistik KG,2.77,43.8,false,false,2164.31,PO-backed,EDI,DE
+NM-00135,CleanHome BV,4.47,43.8,true,false,5614.63,PO-backed,PDF/email,AT
+NM-00136,Retail Fixtures AG,3.82,43.8,false,false,10829.33,PO-backed,EDI,NL
+NM-00137,ProduceDirect GmbH,8.07,43.8,false,false,8330.22,PO-backed,EDI,AT
+NM-00138,Retail Fixtures AG,3.9,43.8,true,false,1413.84,PO-backed,PDF/email,AT
+NM-00139,ProduceDirect GmbH,5.92,43.8,true,false,3402.59,PO-backed,PDF/email,NL
+NM-00140,OfficeSupply DE,4.96,43.8,true,false,8980.29,Non-PO,PDF/email,AT
+NM-00141,Beverage Partners GmbH,5.25,43.8,true,false,8181.51,PO-backed,PDF/email,NL
+NM-00142,EuroPack SE,4.27,43.8,true,true,10855.33,PO-backed,PDF/email,NL
+NM-00143,Beverage Partners GmbH,6.03,43.8,true,true,4021.62,Non-PO,Structured e-invoice,AT
+NM-00144,StoreTech SAS,5.22,43.8,false,false,6440.6,PO-backed,Structured e-invoice,AT
+NM-00145,StoreTech SAS,5.57,43.8,true,false,9680.16,PO-backed,PDF/email,AT
+NM-00146,ProduceDirect GmbH,3.87,43.8,true,false,11612.15,PO-backed,Paper scan,NL
+NM-00147,Beverage Partners GmbH,6.36,43.8,false,false,7077.04,Non-PO,EDI,NL
+NM-00148,FreshFoods GmbH,5.12,43.8,true,false,7491.63,PO-backed,Paper scan,NL
+NM-00149,Beverage Partners GmbH,4.06,43.8,false,false,7843.49,PO-backed,EDI,DE
+NM-00150,Retail Fixtures AG,3.75,43.8,false,false,1526.03,Non-PO,Structured e-invoice,DE
+NM-00151,Dairy Union eG,3.43,43.8,true,false,5116.65,PO-backed,PDF/email,NL
+NM-00152,Retail Fixtures AG,5.47,43.8,true,false,7445.48,Non-PO,PDF/email,AT
+NM-00153,EuroPack SE,2.47,43.8,false,false,11773.99,PO-backed,Structured e-invoice,AT
+NM-00154,ProduceDirect GmbH,5.94,43.8,false,false,3419.2,Non-PO,EDI,DE
+NM-00155,FreshFoods GmbH,5.64,43.8,true,false,749.36,Non-PO,Paper scan,AT
+NM-00156,EuroPack SE,5.41,43.8,false,false,9983.34,PO-backed,Structured e-invoice,NL
+NM-00157,OfficeSupply DE,5.67,43.8,true,true,183.6,PO-backed,Structured e-invoice,DE
+NM-00158,EuroPack SE,4.28,43.8,true,false,7983.53,PO-backed,Paper scan,DE
+NM-00159,Beverage Partners GmbH,5.35,43.8,true,true,770.93,PO-backed,Structured e-invoice,NL
+NM-00160,Retail Fixtures AG,3.58,43.8,true,true,9369.5,PO-backed,EDI,NL
+NM-00161,Dairy Union eG,5.27,43.8,true,false,3724.32,PO-backed,PDF/email,NL
+NM-00162,ProduceDirect GmbH,6.5,43.8,true,false,5201.34,PO-backed,Paper scan,DE
+NM-00163,EuroPack SE,5.4,43.8,false,false,1645.37,Non-PO,EDI,NL
+NM-00164,OfficeSupply DE,5.2,43.8,true,false,6437.1,PO-backed,PDF/email,AT
+NM-00165,Dairy Union eG,5.15,43.8,false,false,8691.95,PO-backed,EDI,DE
+NM-00166,Retail Fixtures AG,4.48,43.8,false,false,4874.95,Non-PO,EDI,NL
+NM-00167,Retail Fixtures AG,4.46,43.8,true,true,945.53,PO-backed,Structured e-invoice,DE
+NM-00168,NordLogistik KG,4.08,43.8,false,false,6742.99,PO-backed,Structured e-invoice,NL
+NM-00169,ProduceDirect GmbH,4.46,43.8,true,false,10436.89,PO-backed,Paper scan,NL
+NM-00170,EuroPack SE,4.01,43.8,false,false,6998.33,PO-backed,Structured e-invoice,DE
+NM-00171,EuroPack SE,5.59,43.8,false,false,9186.88,PO-backed,Structured e-invoice,NL
+NM-00172,OfficeSupply DE,4.16,43.8,false,false,7420.84,PO-backed,Structured e-invoice,NL
+NM-00173,Beverage Partners GmbH,4.07,43.8,true,true,8476.98,PO-backed,PDF/email,AT
+NM-00174,NordLogistik KG,3.58,43.8,true,false,6860.9,PO-backed,Paper scan,AT
+NM-00175,ProduceDirect GmbH,5.48,43.8,false,false,5125.02,PO-backed,Structured e-invoice,AT
+NM-00176,OfficeSupply DE,4.91,43.8,false,false,7215.25,PO-backed,Structured e-invoice,DE
+NM-00177,ProduceDirect GmbH,5.43,43.8,false,false,5905.09,Non-PO,Structured e-invoice,AT
+NM-00178,StoreTech SAS,5.14,43.8,false,false,5244.48,PO-backed,EDI,AT
+NM-00179,OfficeSupply DE,4.07,43.8,true,false,799.17,PO-backed,PDF/email,DE
+NM-00180,Beverage Partners GmbH,4.84,43.8,true,true,3579.95,PO-backed,EDI,DE
+NM-00181,Dairy Union eG,5.48,43.8,false,false,6770.87,PO-backed,Structured e-invoice,NL
+NM-00182,FreshFoods GmbH,5.96,43.8,true,false,5319.2,PO-backed,PDF/email,AT
+NM-00183,ProduceDirect GmbH,3.72,43.8,true,false,3580.76,Non-PO,Paper scan,AT
+NM-00184,OfficeSupply DE,4.34,43.8,false,false,5602.15,PO-backed,Structured e-invoice,NL
+NM-00185,Dairy Union eG,5.46,43.8,true,false,1081.97,PO-backed,Paper scan,AT
+NM-00186,EuroPack SE,4.32,43.8,true,false,6199.23,PO-backed,PDF/email,DE
+NM-00187,NordLogistik KG,5.17,43.8,false,false,2949.79,PO-backed,EDI,DE
+NM-00188,EuroPack SE,3.99,43.8,true,true,2249.18,PO-backed,EDI,NL
+NM-00189,OfficeSupply DE,5.07,43.8,false,false,7769.45,Non-PO,EDI,NL
+NM-00190,Retail Fixtures AG,3.8,43.8,false,false,959.19,Non-PO,EDI,AT
+NM-00191,Retail Fixtures AG,4.14,43.8,true,true,5505.18,Non-PO,PDF/email,DE
+NM-00192,EuroPack SE,4.44,43.8,false,false,7437.85,PO-backed,EDI,NL
+NM-00193,OfficeSupply DE,6.73,43.8,true,true,7874.27,PO-backed,EDI,AT
+NM-00194,Retail Fixtures AG,4.49,43.8,true,false,1376.5,PO-backed,PDF/email,AT
+NM-00195,Retail Fixtures AG,4.81,43.8,true,false,6360.21,PO-backed,Paper scan,NL
+NM-00196,ProduceDirect GmbH,4.75,43.8,false,false,9327.41,PO-backed,Structured e-invoice,NL
+NM-00197,ProduceDirect GmbH,4.76,43.8,true,true,3517.14,Non-PO,PDF/email,NL
+NM-00198,NordLogistik KG,4.68,43.8,true,false,4100.34,Non-PO,PDF/email,NL
+NM-00199,NordLogistik KG,4.41,43.8,true,false,7201.24,Non-PO,PDF/email,DE
+NM-00200,NordLogistik KG,6.49,43.8,false,false,8090.88,PO-backed,EDI,NL
+NM-00201,FreshFoods GmbH,6.36,43.8,true,false,4446.78,Non-PO,Paper scan,DE
+NM-00202,CleanHome BV,5.91,43.8,true,false,2834.54,PO-backed,Paper scan,DE
+NM-00203,Dairy Union eG,5.31,43.8,false,false,597.31,PO-backed,Structured e-invoice,AT
+NM-00204,NordLogistik KG,3.73,43.8,true,false,2072.63,PO-backed,PDF/email,NL
+NM-00205,CleanHome BV,5.6,43.8,true,false,11639.62,Non-PO,PDF/email,NL
+NM-00206,Dairy Union eG,6.02,43.8,false,false,2984.15,PO-backed,EDI,AT
+NM-00207,Beverage Partners GmbH,4.38,43.8,true,false,9370.77,PO-backed,Paper scan,NL
+NM-00208,OfficeSupply DE,3.71,43.8,false,false,1790.02,Non-PO,EDI,AT
+NM-00209,Dairy Union eG,3.23,43.8,false,false,10236.32,PO-backed,Structured e-invoice,AT
+NM-00210,Dairy Union eG,6.86,43.8,false,false,1896.08,PO-backed,Structured e-invoice,AT
+NM-00211,ProduceDirect GmbH,5.93,43.8,false,false,781.09,Non-PO,Structured e-invoice,NL
+NM-00212,CleanHome BV,2.91,43.8,true,true,484.02,PO-backed,EDI,DE
+NM-00213,Retail Fixtures AG,5.15,43.8,true,false,8398.45,PO-backed,PDF/email,DE
+NM-00214,EuroPack SE,4.42,43.8,true,false,375.2,PO-backed,PDF/email,DE
+NM-00215,Beverage Partners GmbH,4.81,43.8,true,true,2966.04,PO-backed,PDF/email,DE
+NM-00216,Retail Fixtures AG,3.67,43.8,false,false,894.26,PO-backed,Structured e-invoice,AT
+NM-00217,ProduceDirect GmbH,4.19,43.8,true,true,168.54,PO-backed,PDF/email,AT
+NM-00218,EuroPack SE,4.92,43.8,false,false,6353.29,PO-backed,Structured e-invoice,AT
+NM-00219,ProduceDirect GmbH,1.72,43.8,false,false,10498.98,PO-backed,Structured e-invoice,DE
+NM-00220,FreshFoods GmbH,4.85,43.8,true,true,4381.56,Non-PO,PDF/email,DE
+NM-00221,StoreTech SAS,3.69,43.8,false,false,1730.9,PO-backed,EDI,AT
+NM-00222,Retail Fixtures AG,3.64,43.8,true,true,11772.71,Non-PO,EDI,AT
+NM-00223,Beverage Partners GmbH,6.76,43.8,true,false,2538.85,Non-PO,PDF/email,DE
+NM-00224,ProduceDirect GmbH,5.74,43.8,true,false,11871.1,PO-backed,PDF/email,NL
+NM-00225,FreshFoods GmbH,4.46,43.8,false,false,10409.71,PO-backed,EDI,AT
+NM-00226,ProduceDirect GmbH,4.28,43.8,false,false,8958.2,Non-PO,EDI,AT
+NM-00227,Beverage Partners GmbH,4.63,43.8,false,false,9643.6,PO-backed,EDI,NL
+NM-00228,NordLogistik KG,4.02,43.8,false,false,6613.87,PO-backed,EDI,AT
+NM-00229,NordLogistik KG,4.66,43.8,false,false,8323.71,PO-backed,Structured e-invoice,AT
+NM-00230,OfficeSupply DE,6.15,43.8,false,false,11978.08,PO-backed,EDI,AT
+NM-00231,Dairy Union eG,6.54,43.8,true,false,9642.99,Non-PO,PDF/email,NL
+NM-00232,Retail Fixtures AG,5.58,43.8,false,false,562.37,PO-backed,Structured e-invoice,DE
+NM-00233,NordLogistik KG,3.26,43.8,true,true,8196.89,PO-backed,Structured e-invoice,AT
+NM-00234,Dairy Union eG,7.05,43.8,false,false,4498.36,Non-PO,EDI,AT
+NM-00235,ProduceDirect GmbH,6.36,43.8,true,false,10975.48,PO-backed,PDF/email,DE
+NM-00236,OfficeSupply DE,6.17,43.8,false,false,3534.09,PO-backed,EDI,AT
+NM-00237,EuroPack SE,5.61,43.8,false,false,9754.58,PO-backed,Structured e-invoice,AT
+NM-00238,Beverage Partners GmbH,5.3,43.8,true,false,10712.28,PO-backed,PDF/email,DE
+NM-00239,EuroPack SE,3.73,43.8,true,false,11823.82,Non-PO,PDF/email,DE
+NM-00240,OfficeSupply DE,3.51,43.8,false,false,4521.6,PO-backed,Structured e-invoice,NL
+NM-00241,Retail Fixtures AG,6.02,43.8,false,false,6379.49,Non-PO,Structured e-invoice,AT
+NM-00242,EuroPack SE,5.45,43.8,true,false,5482.2,PO-backed,PDF/email,NL
+NM-00243,NordLogistik KG,5.66,43.8,false,false,5276.53,PO-backed,EDI,DE
+NM-00244,NordLogistik KG,3.78,43.8,true,false,3973.53,PO-backed,PDF/email,NL
+NM-00245,CleanHome BV,4.11,43.8,true,true,7675.43,Non-PO,Structured e-invoice,NL
+NM-00246,EuroPack SE,4.89,43.8,false,false,6105.49,PO-backed,EDI,DE
+NM-00247,StoreTech SAS,5.73,43.8,true,false,10133.98,PO-backed,PDF/email,NL
+NM-00248,OfficeSupply DE,6.35,43.8,true,true,3286.17,Non-PO,Structured e-invoice,DE
+NM-00249,Beverage Partners GmbH,4.17,43.8,true,false,7756.6,PO-backed,PDF/email,AT
+NM-00250,Beverage Partners GmbH,4.01,43.8,false,false,5524.5,Non-PO,EDI,NL
+NM-00251,StoreTech SAS,4.26,43.8,false,false,10358.6,PO-backed,Structured e-invoice,AT
+NM-00252,NordLogistik KG,5.07,43.8,true,false,9163.88,Non-PO,PDF/email,NL
+NM-00253,EuroPack SE,4.15,43.8,true,false,749.67,PO-backed,PDF/email,AT
+NM-00254,NordLogistik KG,5.18,43.8,true,false,9789.71,PO-backed,PDF/email,NL
+NM-00255,Beverage Partners GmbH,6.97,43.8,true,false,6043.84,PO-backed,PDF/email,DE
+NM-00256,CleanHome BV,8.08,43.8,true,false,7062.63,PO-backed,Paper scan,DE
+NM-00257,Dairy Union eG,6.18,43.8,false,false,246.9,PO-backed,Structured e-invoice,DE
+NM-00258,ProduceDirect GmbH,3.92,43.8,false,false,4486.36,Non-PO,EDI,AT
+NM-00259,Retail Fixtures AG,4.41,43.8,false,false,9208.19,PO-backed,Structured e-invoice,AT
+NM-00260,NordLogistik KG,5.69,43.8,true,false,11704.73,PO-backed,PDF/email,AT
+NM-00261,OfficeSupply DE,4.02,43.8,true,true,6183.1,Non-PO,EDI,NL
+NM-00262,Retail Fixtures AG,4.63,43.8,false,false,6304.09,PO-backed,Structured e-invoice,DE
+NM-00263,OfficeSupply DE,4.29,43.8,true,false,8910.93,PO-backed,PDF/email,AT
+NM-00264,Retail Fixtures AG,6.34,43.8,true,false,8548.57,PO-backed,PDF/email,AT
+NM-00265,Beverage Partners GmbH,4.74,43.8,false,false,9591.54,PO-backed,EDI,NL
+NM-00266,Beverage Partners GmbH,5.46,43.8,true,false,11609.79,PO-backed,PDF/email,NL
+NM-00267,OfficeSupply DE,4.42,43.8,true,false,9329.08,PO-backed,PDF/email,AT
+NM-00268,EuroPack SE,4.66,43.8,true,true,2410.79,PO-backed,Structured e-invoice,AT
+NM-00269,Retail Fixtures AG,4.59,43.8,false,false,10492.89,PO-backed,EDI,NL
+NM-00270,Dairy Union eG,3.95,43.8,true,false,4001.84,PO-backed,PDF/email,NL
+NM-00271,Dairy Union eG,6.18,43.8,false,false,4348.3,PO-backed,EDI,NL
+NM-00272,Retail Fixtures AG,4.67,43.8,true,true,2428.33,Non-PO,PDF/email,DE
+NM-00273,CleanHome BV,7.91,43.8,false,false,8329.34,PO-backed,EDI,AT
+NM-00274,Beverage Partners GmbH,3.88,43.8,false,false,3560.3,PO-backed,EDI,NL
+NM-00275,NordLogistik KG,7.02,43.8,true,false,3591.86,PO-backed,PDF/email,AT
+NM-00276,Beverage Partners GmbH,4.75,43.8,true,false,9005.96,PO-backed,Paper scan,DE
+NM-00277,OfficeSupply DE,6.55,43.8,true,true,8929.56,PO-backed,Structured e-invoice,DE
+NM-00278,CleanHome BV,4.31,43.8,false,false,772.02,PO-backed,Structured e-invoice,AT
+NM-00279,NordLogistik KG,4.75,43.8,false,false,4971.85,PO-backed,EDI,AT
+NM-00280,StoreTech SAS,4.46,43.8,false,false,3532.17,PO-backed,EDI,DE
+NM-00281,FreshFoods GmbH,3.78,43.8,true,false,10971.77,PO-backed,Paper scan,DE
+NM-00282,FreshFoods GmbH,4.39,43.8,false,false,11966.49,Non-PO,EDI,AT
+NM-00283,FreshFoods GmbH,4.99,43.8,true,false,259.82,PO-backed,PDF/email,NL
+NM-00284,Retail Fixtures AG,2.77,43.8,true,false,11870.83,Non-PO,PDF/email,NL
+NM-00285,EuroPack SE,5.87,43.8,true,true,4068.61,Non-PO,EDI,NL
+NM-00286,StoreTech SAS,5.97,43.8,false,false,9520.6,PO-backed,EDI,NL
+NM-00287,ProduceDirect GmbH,3.8,43.8,true,false,6256.08,PO-backed,PDF/email,DE
+NM-00288,Retail Fixtures AG,3.99,43.8,false,false,3984.68,PO-backed,EDI,DE
+NM-00289,OfficeSupply DE,4.18,43.8,false,false,8716.16,PO-backed,Structured e-invoice,DE
+NM-00290,EuroPack SE,5.28,43.8,false,false,5664.93,PO-backed,EDI,DE
+NM-00291,EuroPack SE,6.36,43.8,false,false,7718.73,PO-backed,EDI,AT
+NM-00292,Retail Fixtures AG,3.95,43.8,false,false,1965.25,PO-backed,EDI,NL
+NM-00293,CleanHome BV,4.28,43.8,true,false,9178.04,PO-backed,Paper scan,NL
+NM-00294,Retail Fixtures AG,2.68,43.8,true,true,6408.85,Non-PO,PDF/email,AT
+NM-00295,OfficeSupply DE,6.28,43.8,false,false,6509.42,PO-backed,Structured e-invoice,DE
+NM-00296,CleanHome BV,5.52,43.8,true,true,8645.48,PO-backed,EDI,AT
+NM-00297,Retail Fixtures AG,5.44,43.8,false,false,6832.35,PO-backed,Structured e-invoice,NL
+NM-00298,ProduceDirect GmbH,3.87,43.8,false,false,3165.32,Non-PO,EDI,DE
+NM-00299,FreshFoods GmbH,5.97,43.8,true,true,11224.81,PO-backed,PDF/email,DE
+NM-00300,NordLogistik KG,5.28,43.8,true,false,9262.32,PO-backed,Paper scan,NL
